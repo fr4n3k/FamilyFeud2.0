@@ -1,0 +1,10 @@
+german shepherd,10
+labrador retriever,9
+golden retriever,8
+siberian husky,7
+beagle,6
+border collie,5
+pug,4
+pit bull terrier,3
+dachshund,2
+rough collie,1

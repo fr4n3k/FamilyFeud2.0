@@ -1,0 +1,10 @@
+pizza,10
+chocolate,9
+ice cream,8
+french fries,7
+steak,6
+chicken,5
+tacos,4
+bacon,3
+sushi,2
+burger,1

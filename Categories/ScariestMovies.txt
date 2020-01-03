@@ -1,0 +1,10 @@
+the exorcist,10
+the shining,9
+a nightmare on elm street,8
+the conjuring,7
+the ring,6
+the grudge,5
+insidious,4
+halloween,3
+friday the 13th,2
+saw,1

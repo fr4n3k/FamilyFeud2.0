@@ -1,0 +1,10 @@
+muhammad ali,10
+sugar ray robinson,9
+mike tyson,8
+manny pacquiao,7
+rocky marciano,6
+joe louis,5
+floyd mayweather jr.,4
+sugar ray leonard,3
+henry armstrong,2
+roy jones jr.,1
